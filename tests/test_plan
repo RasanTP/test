@@ -1,0 +1,46 @@
+Front page
+1.1. Get page title
+1.2. Book a room
+1.3. Try to book a room without choosing a day
+1.4. Try to book a room with empty firstname field
+1.5. Try to book a room with empty lastname field
+1.6. Try to book a room with empty email field
+1,7. Try to book a room with empty phone field
+1.8. Try to book a room with invalid email field
+1.9. Try to book a room with invalid phone field
+1.10. Send a message
+1.11. Try sending a empty message
+1.12. Try sending a message without name
+1.13. Try sending a message without email
+1.14. Try sending a message without phone
+1.15. try sending a message without subject
+
+Admin page
+2.1. Login
+2.2. Try logging in with wrong credentials
+2.3. Logout
+2.4. Try logging in again after logout
+
+Test report api
+3.1. Get report of a room
+3.2. Test sending a faulty api call
+
+Test room api
+4.1. Test getting room 
+4.2. Test geeting room with non existing id
+4.3. Test gettign room with invalid id
+4.4. Test getting all rooms
+4.5. Test sending a faulty api call
+
+Test message api
+5.1. Test sending a message through api
+5.2. Test sending an empty message through api
+5.3. Test sending a message without name
+5.4. Test sending a message without phone
+5.5. Test sending a message without email
+5.6. Test sending a message without subject
+5.7. Test sending a message with invalid phone
+5.8. Test sending a message with invalid email
+5.9. Test message count
+5.10 test getting all messages
+5.11 Test sending faulty api call
